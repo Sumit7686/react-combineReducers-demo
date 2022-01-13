@@ -1,0 +1,97 @@
+[
+    {
+        "queName": "Question-1",
+        "option": [
+            {
+                "opt-1": "One",
+                "opt-2": "Two",
+                "opt-3": "Three",
+                "opt-4": "Four"
+            }
+        ],
+        "answer": [
+            {
+                "opt-1": "One",
+                "opt-2": "Two",
+                "opt-3": "Three",
+                "opt-4": "Four"
+            }
+        ]
+    },
+    {
+        "queName": "Question-2",
+        "option": [
+            {
+                "opt-1": "Four",
+                "opt-2": "Three",
+                "opt-3": "Two",
+                "opt-4": "One"
+            }
+        ],
+        "answer": [
+            {
+                "opt-1": "One",
+                "opt-2": "Two",
+                "opt-3": "Three",
+                "opt-4": "Four"
+            }
+        ]
+    },
+    {
+        "queName": "Question-3",
+        "option": [
+            {
+                "opt-1": "One",
+                "opt-2": "Two",
+                "opt-3": "Three",
+                "opt-4": "Four"
+            }
+        ],
+        "answer": [
+            {
+                "opt-1": "One",
+                "opt-2": "Two",
+                "opt-3": "Three",
+                "opt-4": "Four"
+            }
+        ]
+    },
+    {
+        "queName": "Question-4",
+        "option": [
+            {
+                "opt-1": "Four",
+                "opt-2": "Three",
+                "opt-3": "Two",
+                "opt-4": "One"
+            }
+        ],
+        "answer": [
+            {
+                "opt-1": "One",
+                "opt-2": "Two",
+                "opt-3": "Three",
+                "opt-4": "Four"
+            }
+        ]
+    },
+    {
+        "queName": "Question-5",
+        "option": [
+            {
+                "opt-1": "One",
+                "opt-2": "Two",
+                "opt-3": "Three",
+                "opt-4": "Four"
+            }
+        ],
+        "answer": [
+            {
+                "opt-1": "One",
+                "opt-2": "Two",
+                "opt-3": "Three",
+                "opt-4": "Four"
+            }
+        ]
+    }
+]
